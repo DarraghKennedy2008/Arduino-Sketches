@@ -6,8 +6,5 @@
 - Buzzer
 - Button
 
-### **Software**
-- None
-
 ### **Circuit Layout**
 ![image](BuzzButtonLayout.png)

@@ -5,8 +5,5 @@
 - 220 Ohm Resistor
 - Simple LED
 
-### **Software**
-- None
-
 ### **Circuit layout**
 ![image](ledlayout.png)
