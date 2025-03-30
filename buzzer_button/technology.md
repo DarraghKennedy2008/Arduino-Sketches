@@ -1,9 +1,10 @@
-## Technology 
+## Technology
 
 ### **Hardware**
 - Simple breadboard
-- 220 Ohm Resistor
-- Simple LED
+- 10k Ohm Resistor
+- Buzzer
+- Button
 
 ### **Software**
 - None
