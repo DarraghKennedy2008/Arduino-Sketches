@@ -2,11 +2,11 @@
 
 ### **Hardware**
 - Simple breadboard
-- 220 Ohm Resistor
+- 10k Ohm Resistor
 - Simple LED
 
 ### **Software**
 - None
 
 ### **Circuit layout**
-![image](ledlayout.png)
+![image](buttonlayout.png)
