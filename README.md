@@ -1,6 +1,4 @@
 # Arduino-Sketches
-
-## **Description**
 This repo holds my collection of Arduino sketches.
 Each folder will contain:
 - An .ino file.
